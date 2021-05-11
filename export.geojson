@@ -1,0 +1,1292 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-11-19T18:02:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3685234",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "21",
+        "addr:postcode": "09131",
+        "addr:street": "Via dei Valenzani",
+        "brand": "Conad",
+        "brand:wikidata": "Q639075",
+        "brand:wikipedia": "it:Conad",
+        "building": "retail",
+        "name": "Conad Superstore",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 09:00-14:00",
+        "operator": "CONAD",
+        "payment:bancomat": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+39 070 493032",
+        "shop": "supermarket",
+        "type": "multipolygon",
+        "website": "https://www.conad.it/ricerca-negozi/negozio.002488.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1214008,
+              39.2352643
+            ],
+            [
+              9.1211064,
+              39.2354176
+            ],
+            [
+              9.1209658,
+              39.2352539
+            ],
+            [
+              9.1210377,
+              39.2352165
+            ],
+            [
+              9.1209258,
+              39.2350861
+            ],
+            [
+              9.1209563,
+              39.2350707
+            ],
+            [
+              9.1209972,
+              39.23505
+            ],
+            [
+              9.1213257,
+              39.234881
+            ],
+            [
+              9.1213959,
+              39.2348407
+            ],
+            [
+              9.1214411,
+              39.2348147
+            ],
+            [
+              9.1216315,
+              39.2349823
+            ],
+            [
+              9.1216007,
+              39.2350049
+            ],
+            [
+              9.1216615,
+              39.2350616
+            ],
+            [
+              9.1217151,
+              39.2351047
+            ],
+            [
+              9.1215185,
+              39.235203
+            ],
+            [
+              9.1215435,
+              39.2352321
+            ],
+            [
+              9.1214259,
+              39.2352934
+            ],
+            [
+              9.1214008,
+              39.2352643
+            ]
+          ]
+        ]
+      },
+      "id": "relation/3685234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189052020",
+        "name": "EPSupercarni",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.0848697,
+              39.2468811
+            ],
+            [
+              9.0850574,
+              39.2464906
+            ],
+            [
+              9.0855992,
+              39.2466609
+            ],
+            [
+              9.0854007,
+              39.2470514
+            ],
+            [
+              9.0848697,
+              39.2468811
+            ]
+          ]
+        ]
+      },
+      "id": "way/189052020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206844793",
+        "building": "retail",
+        "name": "EuroSpin",
+        "name:en": "EuroSpin",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 08:30-13:30,16:30-20:30",
+        "shop": "supermarket",
+        "website": "https://www.eurospin.it/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1163605,
+              39.2502711
+            ],
+            [
+              9.1161972,
+              39.2500693
+            ],
+            [
+              9.116719,
+              39.249816
+            ],
+            [
+              9.1167382,
+              39.2498396
+            ],
+            [
+              9.1167571,
+              39.249863
+            ],
+            [
+              9.1168449,
+              39.2498204
+            ],
+            [
+              9.1169933,
+              39.2500036
+            ],
+            [
+              9.1165968,
+              39.250196
+            ],
+            [
+              9.1165738,
+              39.2501676
+            ],
+            [
+              9.1163605,
+              39.2502711
+            ]
+          ]
+        ]
+      },
+      "id": "way/206844793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277188276",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "7",
+        "addr:street": "Via S'Arrulloni",
+        "brand": "Conad City",
+        "brand:wikidata": "Q57543102",
+        "building": "yes",
+        "name": "Conad City",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1488797,
+              39.1983471
+            ],
+            [
+              9.1486061,
+              39.198503
+            ],
+            [
+              9.1485285,
+              39.1984206
+            ],
+            [
+              9.1488021,
+              39.1982646
+            ],
+            [
+              9.1488797,
+              39.1983471
+            ]
+          ]
+        ]
+      },
+      "id": "way/277188276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/328567192",
+        "building": "yes",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1065216,
+              39.2423861
+            ],
+            [
+              9.1067594,
+              39.2420742
+            ],
+            [
+              9.1071353,
+              39.2422228
+            ],
+            [
+              9.1068898,
+              39.2425287
+            ],
+            [
+              9.1068093,
+              39.2424931
+            ],
+            [
+              9.1065216,
+              39.2423861
+            ]
+          ]
+        ]
+      },
+      "id": "way/328567192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/400201640",
+        "building": "yes",
+        "name": "Nonna Isa",
+        "operator": "Camporosso SRL",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.1194239,
+              39.2129094
+            ],
+            [
+              9.1193521,
+              39.2127429
+            ],
+            [
+              9.1199049,
+              39.2126233
+            ],
+            [
+              9.1199853,
+              39.2128144
+            ],
+            [
+              9.1194399,
+              39.2129467
+            ],
+            [
+              9.1194239,
+              39.2129094
+            ]
+          ]
+        ]
+      },
+      "id": "way/400201640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/748769783",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "2",
+        "addr:street": "Via Anassagora",
+        "name": "Conad",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1190345,
+          39.2482113
+        ]
+      },
+      "id": "node/748769783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1212993846",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "3",
+        "addr:street": "Via Berlino",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1367063,
+          39.2237531
+        ]
+      },
+      "id": "node/1212993846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1684957158",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "29",
+        "addr:street": "Via del Pozzetto",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1518398,
+          39.1975799
+        ]
+      },
+      "id": "node/1684957158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1698382508",
+        "addr:city": "Cagliari",
+        "addr:place": "Pirri",
+        "addr:street": "Via Italia",
+        "name": "Nonna Isa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1303889,
+          39.2471705
+        ]
+      },
+      "id": "node/1698382508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1996874394",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "15",
+        "addr:street": "Via Louis Pasteur",
+        "name": "Conad City",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1382861,
+          39.208259
+        ]
+      },
+      "id": "node/1996874394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1996886287",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "54",
+        "addr:street": "Via Timavo",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1047543,
+          39.2356941
+        ]
+      },
+      "id": "node/1996886287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1996956378",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "26",
+        "addr:street": "Via dei Colombi",
+        "name": "Conad city",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1336041,
+          39.209328
+        ]
+      },
+      "id": "node/1996956378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2001275541",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "15",
+        "addr:street": "Viale La Plaia",
+        "name": "Iper Pan",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1038794,
+          39.2153479
+        ]
+      },
+      "id": "node/2001275541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715451869",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "18-28",
+        "addr:street": "Via Nuoro",
+        "name": "Gieffe",
+        "operator": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.121061,
+          39.2108935
+        ]
+      },
+      "id": "node/2715451869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2725373298",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "19",
+        "addr:street": "Via Napoli",
+        "name": "Il Suq",
+        "operator": "Il Suq srl unipersonale",
+        "phone": "+39 070 660223",
+        "shop": "supermarket",
+        "website": "http://www.ilsuq.it",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1128405,
+          39.2146999
+        ]
+      },
+      "id": "node/2725373298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2833196637",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "225",
+        "addr:street": "Via della Pineta",
+        "name": "Margherita conad",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1358399,
+          39.2056131
+        ]
+      },
+      "id": "node/2833196637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3353932653",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "47",
+        "addr:street": "Via Carlo Baudi di Vesme",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1108401,
+          39.2388956
+        ]
+      },
+      "id": "node/3353932653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4099999704",
+        "name": "Lidl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1396869,
+          39.2347911
+        ]
+      },
+      "id": "node/4099999704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213395454",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "3",
+        "addr:street": "Via Ischia",
+        "name": "Gieffe",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1601009,
+          39.201503
+        ]
+      },
+      "id": "node/4213395454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213401091",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "4",
+        "addr:street": "Via Talete",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1335775,
+          39.236694
+        ]
+      },
+      "id": "node/4213401091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213412992",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "13",
+        "addr:place": "San Bartolomeo",
+        "addr:street": "Via Francesco Alziator",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1391826,
+          39.1991707
+        ]
+      },
+      "id": "node/4213412992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213412993",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "22",
+        "addr:street": "Via Arcangelo Corelli",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.128452,
+          39.2228061
+        ]
+      },
+      "id": "node/4213412993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213453689",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "60",
+        "addr:place": "Santa Gilla",
+        "addr:postcode": "090122",
+        "addr:street": "Via San Simone",
+        "brand": "Conad",
+        "brand:wikidata": "Q639075",
+        "brand:wikipedia": "it:Conad",
+        "name": "Conad",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0909889,
+          39.2326516
+        ]
+      },
+      "id": "node/4213453689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213453690",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "27",
+        "addr:street": "Via Dante Alighieri",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1251432,
+          39.2188595
+        ]
+      },
+      "id": "node/4213453690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213453789",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "35",
+        "addr:place": "Pirri",
+        "addr:street": "Via Dolianova",
+        "name": "Auchan",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1361551,
+          39.2475737
+        ]
+      },
+      "id": "node/4213453789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213453889",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "25",
+        "addr:street": "Via Giovanni Battista Tuveri",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1287835,
+          39.2186135
+        ]
+      },
+      "id": "node/4213453889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213454089",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "1b",
+        "addr:place": "Pirri",
+        "addr:street": "Via della Resistenza",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1310068,
+          39.2454802
+        ]
+      },
+      "id": "node/4213454089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213455202",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "101",
+        "addr:street": "Via Sant'Alenixedda",
+        "contact:phone": "070 49 38 60",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1239815,
+          39.2259885
+        ]
+      },
+      "id": "node/4213455202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213505890",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "18",
+        "addr:street": "Via Santa Gilla",
+        "name": "Super Pan",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0992241,
+          39.2265762
+        ]
+      },
+      "id": "node/4213505890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213506590",
+        "addr:city": "Cagliari",
+        "addr:street": "Via Filippo Figari",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.126002,
+          39.2317746
+        ]
+      },
+      "id": "node/4213506590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213506591",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "4",
+        "addr:street": "Via Calamattia",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1224894,
+          39.2385129
+        ]
+      },
+      "id": "node/4213506591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213506689",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "39",
+        "addr:street": "Via Baldassarre Castiglione",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1300295,
+          39.2304967
+        ]
+      },
+      "id": "node/4213506689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213523292",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "161",
+        "addr:street": "Viale Guglielmo Marconi",
+        "name": "Iper Pan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1390288,
+          39.2343294
+        ]
+      },
+      "id": "node/4213523292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213587392",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "111",
+        "addr:street": "Via Is Mirrionis",
+        "name": "Conad City",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1085049,
+          39.2360774
+        ]
+      },
+      "id": "node/4213587392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213808390",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "81",
+        "addr:street": "Via Is Maglias",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1023429,
+          39.2332469
+        ]
+      },
+      "id": "node/4213808390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213811246",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "108",
+        "addr:street": "Via Goffredo Mameli",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1075586,
+          39.219276
+        ]
+      },
+      "id": "node/4213811246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213812790",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "28",
+        "addr:street": "Piazza Giovanni XXIII",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1268496,
+          39.2271236
+        ]
+      },
+      "id": "node/4213812790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213814889",
+        "addr:city": "Pirri",
+        "addr:housenumber": "159",
+        "addr:street": "Via Santa Maria Chiara",
+        "name": "Amelia Pam",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.120084,
+          39.2411014
+        ]
+      },
+      "id": "node/4213814889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4215591593",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "1",
+        "addr:street": "Via Is Maglias",
+        "name": "Nonna Isa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0998948,
+          39.2365722
+        ]
+      },
+      "id": "node/4215591593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4215591594",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "108",
+        "addr:street": "Viale Elmas",
+        "name": "Nonna Isa",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0905094,
+          39.242454
+        ]
+      },
+      "id": "node/4215591594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229098870",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "27",
+        "addr:street": "Via Giovanni Battista Tuveri",
+        "name": "Despar",
+        "operator": "Gieffe S.r.l.",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1288218,
+          39.2186869
+        ]
+      },
+      "id": "node/4229098870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229510738",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "51",
+        "addr:postcode": "09131",
+        "addr:street": "Via Giudice Guglielmo",
+        "name": "Nonna ISA",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)",
+        "website": "https://www.gruppovege.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.12095,
+          39.2292599
+        ]
+      },
+      "id": "node/4229510738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229609947",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "65",
+        "addr:street": "Via Sidney Sonnino",
+        "name": "Nonna Isa",
+        "operator": "Camporosso srl",
+        "phone": "+39 070 670167",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1194222,
+          39.2129812
+        ]
+      },
+      "id": "node/4229609947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229647104",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "8",
+        "addr:street": "Piazza Tristani",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1189533,
+          39.2251334
+        ]
+      },
+      "id": "node/4229647104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229659407",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "87C;87",
+        "addr:street": "Via Dante Alighieri",
+        "name": "Gieffe",
+        "operator": "Gieffe S.r.l.",
+        "phone": "+39 070 53260670",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1252588,
+          39.2226886
+        ]
+      },
+      "id": "node/4229659407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229666623",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "9A",
+        "addr:street": "Via Sebastiano Satta",
+        "name": "Margherita",
+        "operator": "Conad",
+        "phone": "+39 070 670665",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1219786,
+          39.2164979
+        ]
+      },
+      "id": "node/4229666623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229668731",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "98",
+        "addr:street": "Viale Trieste",
+        "name": "Commer+",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1038018,
+          39.219931
+        ]
+      },
+      "id": "node/4229668731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4229674494",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "96",
+        "addr:street": "Via Giovanni Battista Tuveri",
+        "name": "Supermercato Gruppo Isa",
+        "name:it": "Supermercato Gruppo ISA",
+        "operator": "Gruppo Isa",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1289825,
+          39.2190368
+        ]
+      },
+      "id": "node/4229674494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748843522",
+        "name": "S'Isula",
+        "organic": "only",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1150557,
+          39.2181893
+        ]
+      },
+      "id": "node/4748843522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4850820830",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "88",
+        "addr:street": "Via San Benedetto",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1287586,
+          39.2246565
+        ]
+      },
+      "id": "node/4850820830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5412363643",
+        "name": "EuroSpin",
+        "name:en": "EuroSpin",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 08:30-13:30,16:30-20:00",
+        "shop": "supermarket",
+        "website": "https://www.eurospin.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0917712,
+          39.2416578
+        ]
+      },
+      "id": "node/5412363643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5861146430",
+        "name": "Despar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1426747,
+          39.2008193
+        ]
+      },
+      "id": "node/5861146430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6106802661",
+        "addr:city": "Cagliari",
+        "addr:housenumber": "8",
+        "addr:street": "Via Diego Cadello",
+        "name": "MD",
+        "operator": "MD",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1114441,
+          39.2345391
+        ]
+      },
+      "id": "node/6106802661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7392534913",
+        "name": "Conad Superstore",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1164422,
+          39.2441028
+        ]
+      },
+      "id": "node/7392534913"
+    }
+  ]
+}

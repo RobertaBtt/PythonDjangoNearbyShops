@@ -1,0 +1,1090 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "timestamp_osm_base": "2020-11-19T18:02:02Z",
+    "timestamp_areas_base": "2020-11-19T17:22:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 748769783,
+      "lat": 39.2482113,
+      "lon": 9.1190345,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "2",
+        "addr:street": "Via Anassagora",
+        "name": "Conad",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1212993846,
+      "lat": 39.2237531,
+      "lon": 9.1367063,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "3",
+        "addr:street": "Via Berlino",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1684957158,
+      "lat": 39.1975799,
+      "lon": 9.1518398,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "29",
+        "addr:street": "Via del Pozzetto",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1698382508,
+      "lat": 39.2471705,
+      "lon": 9.1303889,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:place": "Pirri",
+        "addr:street": "Via Italia",
+        "name": "Nonna Isa",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1996874394,
+      "lat": 39.208259,
+      "lon": 9.1382861,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "15",
+        "addr:street": "Via Louis Pasteur",
+        "name": "Conad City",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1996886287,
+      "lat": 39.2356941,
+      "lon": 9.1047543,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "54",
+        "addr:street": "Via Timavo",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1996956378,
+      "lat": 39.209328,
+      "lon": 9.1336041,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "26",
+        "addr:street": "Via dei Colombi",
+        "name": "Conad city",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2001275541,
+      "lat": 39.2153479,
+      "lon": 9.1038794,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "15",
+        "addr:street": "Viale La Plaia",
+        "name": "Iper Pan",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2715451869,
+      "lat": 39.2108935,
+      "lon": 9.121061,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "18-28",
+        "addr:street": "Via Nuoro",
+        "name": "Gieffe",
+        "operator": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2725373298,
+      "lat": 39.2146999,
+      "lon": 9.1128405,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "19",
+        "addr:street": "Via Napoli",
+        "name": "Il Suq",
+        "operator": "Il Suq srl unipersonale",
+        "phone": "+39 070 660223",
+        "shop": "supermarket",
+        "website": "http://www.ilsuq.it",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2833196637,
+      "lat": 39.2056131,
+      "lon": 9.1358399,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "225",
+        "addr:street": "Via della Pineta",
+        "name": "Margherita conad",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3353932653,
+      "lat": 39.2388956,
+      "lon": 9.1108401,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "47",
+        "addr:street": "Via Carlo Baudi di Vesme",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4099999704,
+      "lat": 39.2347911,
+      "lon": 9.1396869,
+      "tags": {
+        "name": "Lidl",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213395454,
+      "lat": 39.201503,
+      "lon": 9.1601009,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "3",
+        "addr:street": "Via Ischia",
+        "name": "Gieffe",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213401091,
+      "lat": 39.236694,
+      "lon": 9.1335775,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "4",
+        "addr:street": "Via Talete",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213412992,
+      "lat": 39.1991707,
+      "lon": 9.1391826,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "13",
+        "addr:place": "San Bartolomeo",
+        "addr:street": "Via Francesco Alziator",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213412993,
+      "lat": 39.2228061,
+      "lon": 9.128452,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "22",
+        "addr:street": "Via Arcangelo Corelli",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213453689,
+      "lat": 39.2326516,
+      "lon": 9.0909889,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "60",
+        "addr:place": "Santa Gilla",
+        "addr:postcode": "090122",
+        "addr:street": "Via San Simone",
+        "brand": "Conad",
+        "brand:wikidata": "Q639075",
+        "brand:wikipedia": "it:Conad",
+        "name": "Conad",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213453690,
+      "lat": 39.2188595,
+      "lon": 9.1251432,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "27",
+        "addr:street": "Via Dante Alighieri",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213453789,
+      "lat": 39.2475737,
+      "lon": 9.1361551,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "35",
+        "addr:place": "Pirri",
+        "addr:street": "Via Dolianova",
+        "name": "Auchan",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213453889,
+      "lat": 39.2186135,
+      "lon": 9.1287835,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "25",
+        "addr:street": "Via Giovanni Battista Tuveri",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213454089,
+      "lat": 39.2454802,
+      "lon": 9.1310068,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "1b",
+        "addr:place": "Pirri",
+        "addr:street": "Via della Resistenza",
+        "name": "Gieffe",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213455202,
+      "lat": 39.2259885,
+      "lon": 9.1239815,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "101",
+        "addr:street": "Via Sant'Alenixedda",
+        "contact:phone": "070 49 38 60",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213505890,
+      "lat": 39.2265762,
+      "lon": 9.0992241,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "18",
+        "addr:street": "Via Santa Gilla",
+        "name": "Super Pan",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213506590,
+      "lat": 39.2317746,
+      "lon": 9.126002,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:street": "Via Filippo Figari",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213506591,
+      "lat": 39.2385129,
+      "lon": 9.1224894,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "4",
+        "addr:street": "Via Calamattia",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213506689,
+      "lat": 39.2304967,
+      "lon": 9.1300295,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "39",
+        "addr:street": "Via Baldassarre Castiglione",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213523292,
+      "lat": 39.2343294,
+      "lon": 9.1390288,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "161",
+        "addr:street": "Viale Guglielmo Marconi",
+        "name": "Iper Pan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213587392,
+      "lat": 39.2360774,
+      "lon": 9.1085049,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "111",
+        "addr:street": "Via Is Mirrionis",
+        "name": "Conad City",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213808390,
+      "lat": 39.2332469,
+      "lon": 9.1023429,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "81",
+        "addr:street": "Via Is Maglias",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213811246,
+      "lat": 39.219276,
+      "lon": 9.1075586,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "108",
+        "addr:street": "Via Goffredo Mameli",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213812790,
+      "lat": 39.2271236,
+      "lon": 9.1268496,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "28",
+        "addr:street": "Piazza Giovanni XXIII",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4213814889,
+      "lat": 39.2411014,
+      "lon": 9.120084,
+      "tags": {
+        "addr:city": "Pirri",
+        "addr:housenumber": "159",
+        "addr:street": "Via Santa Maria Chiara",
+        "name": "Amelia Pam",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4215591593,
+      "lat": 39.2365722,
+      "lon": 9.0998948,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "1",
+        "addr:street": "Via Is Maglias",
+        "name": "Nonna Isa",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4215591594,
+      "lat": 39.242454,
+      "lon": 9.0905094,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "108",
+        "addr:street": "Viale Elmas",
+        "name": "Nonna Isa",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229098870,
+      "lat": 39.2186869,
+      "lon": 9.1288218,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "27",
+        "addr:street": "Via Giovanni Battista Tuveri",
+        "name": "Despar",
+        "operator": "Gieffe S.r.l.",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229510738,
+      "lat": 39.2292599,
+      "lon": 9.12095,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "51",
+        "addr:postcode": "09131",
+        "addr:street": "Via Giudice Guglielmo",
+        "name": "Nonna ISA",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)",
+        "website": "https://www.gruppovege.it"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229609947,
+      "lat": 39.2129812,
+      "lon": 9.1194222,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "65",
+        "addr:street": "Via Sidney Sonnino",
+        "name": "Nonna Isa",
+        "operator": "Camporosso srl",
+        "phone": "+39 070 670167",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229647104,
+      "lat": 39.2251334,
+      "lon": 9.1189533,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "8",
+        "addr:street": "Piazza Tristani",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229659407,
+      "lat": 39.2226886,
+      "lon": 9.1252588,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "87C;87",
+        "addr:street": "Via Dante Alighieri",
+        "name": "Gieffe",
+        "operator": "Gieffe S.r.l.",
+        "phone": "+39 070 53260670",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229666623,
+      "lat": 39.2164979,
+      "lon": 9.1219786,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "9A",
+        "addr:street": "Via Sebastiano Satta",
+        "name": "Margherita",
+        "operator": "Conad",
+        "phone": "+39 070 670665",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229668731,
+      "lat": 39.219931,
+      "lon": 9.1038018,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "98",
+        "addr:street": "Viale Trieste",
+        "name": "Commer+",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4229674494,
+      "lat": 39.2190368,
+      "lon": 9.1289825,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "96",
+        "addr:street": "Via Giovanni Battista Tuveri",
+        "name": "Supermercato Gruppo Isa",
+        "name:it": "Supermercato Gruppo ISA",
+        "operator": "Gruppo Isa",
+        "shop": "supermarket",
+        "source": "Regione Autonoma della Sardegna (www.sardegnageoportale.it)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4748843522,
+      "lat": 39.2181893,
+      "lon": 9.1150557,
+      "tags": {
+        "name": "S'Isula",
+        "organic": "only",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4850820830,
+      "lat": 39.2246565,
+      "lon": 9.1287586,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "88",
+        "addr:street": "Via San Benedetto",
+        "name": "Amelia Pam",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5412363643,
+      "lat": 39.2416578,
+      "lon": 9.0917712,
+      "tags": {
+        "name": "EuroSpin",
+        "name:en": "EuroSpin",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 08:30-13:30,16:30-20:00",
+        "shop": "supermarket",
+        "website": "https://www.eurospin.it/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5861146430,
+      "lat": 39.2008193,
+      "lon": 9.1426747,
+      "tags": {
+        "name": "Despar",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6106802661,
+      "lat": 39.2345391,
+      "lon": 9.1114441,
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "8",
+        "addr:street": "Via Diego Cadello",
+        "name": "MD",
+        "operator": "MD",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7392534913,
+      "lat": 39.2441028,
+      "lon": 9.1164422,
+      "tags": {
+        "name": "Conad Superstore",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 189052020,
+      "nodes": [
+        1996974553,
+        1996974550,
+        1996974552,
+        1996974551,
+        1996974553
+      ],
+      "tags": {
+        "name": "EPSupercarni",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206844793,
+      "nodes": [
+        2168911761,
+        2168911768,
+        2168911765,
+        2948682056,
+        2948676329,
+        2948676330,
+        2168911763,
+        2168911758,
+        2168911767,
+        2168911761
+      ],
+      "tags": {
+        "building": "retail",
+        "name": "EuroSpin",
+        "name:en": "EuroSpin",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 08:30-13:30,16:30-20:30",
+        "shop": "supermarket",
+        "website": "https://www.eurospin.it/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277188276,
+      "nodes": [
+        4213695317,
+        2817122978,
+        2817123065,
+        2817123095,
+        4213695317
+      ],
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "7",
+        "addr:street": "Via S'Arrulloni",
+        "brand": "Conad City",
+        "brand:wikidata": "Q57543102",
+        "building": "yes",
+        "name": "Conad City",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 328567192,
+      "nodes": [
+        3353937924,
+        3353937925,
+        3353937927,
+        3353937928,
+        3353937929,
+        3353937924
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Super Pan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400201640,
+      "nodes": [
+        4028064812,
+        2817144283,
+        2817144034,
+        2048938356,
+        2817144657,
+        4028064812
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Nonna Isa",
+        "operator": "Camporosso SRL",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3685234,
+      "members": [
+        {
+          "type": "way",
+          "ref": 277184020,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:city": "Cagliari",
+        "addr:housenumber": "21",
+        "addr:postcode": "09131",
+        "addr:street": "Via dei Valenzani",
+        "brand": "Conad",
+        "brand:wikidata": "Q639075",
+        "brand:wikipedia": "it:Conad",
+        "building": "retail",
+        "name": "Conad Superstore",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su 09:00-14:00",
+        "operator": "CONAD",
+        "payment:bancomat": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+39 070 493032",
+        "shop": "supermarket",
+        "type": "multipolygon",
+        "website": "https://www.conad.it/ricerca-negozi/negozio.002488.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2048938356,
+      "lat": 39.2128144,
+      "lon": 9.1199853
+    },
+    {
+      "type": "node",
+      "id": 2817144034,
+      "lat": 39.2126233,
+      "lon": 9.1199049
+    },
+    {
+      "type": "node",
+      "id": 2817144283,
+      "lat": 39.2127429,
+      "lon": 9.1193521
+    },
+    {
+      "type": "node",
+      "id": 2817144657,
+      "lat": 39.2129467,
+      "lon": 9.1194399
+    },
+    {
+      "type": "node",
+      "id": 4028064812,
+      "lat": 39.2129094,
+      "lon": 9.1194239
+    },
+    {
+      "type": "node",
+      "id": 2817122978,
+      "lat": 39.1982646,
+      "lon": 9.1488021
+    },
+    {
+      "type": "node",
+      "id": 2817123065,
+      "lat": 39.1984206,
+      "lon": 9.1485285
+    },
+    {
+      "type": "node",
+      "id": 2817123095,
+      "lat": 39.198503,
+      "lon": 9.1486061
+    },
+    {
+      "type": "node",
+      "id": 4213695317,
+      "lat": 39.1983471,
+      "lon": 9.1488797
+    },
+    {
+      "type": "node",
+      "id": 1996974550,
+      "lat": 39.2470514,
+      "lon": 9.0854007
+    },
+    {
+      "type": "node",
+      "id": 1996974551,
+      "lat": 39.2464906,
+      "lon": 9.0850574
+    },
+    {
+      "type": "node",
+      "id": 1996974552,
+      "lat": 39.2466609,
+      "lon": 9.0855992
+    },
+    {
+      "type": "node",
+      "id": 1996974553,
+      "lat": 39.2468811,
+      "lon": 9.0848697
+    },
+    {
+      "type": "node",
+      "id": 3353937924,
+      "lat": 39.2423861,
+      "lon": 9.1065216
+    },
+    {
+      "type": "node",
+      "id": 3353937925,
+      "lat": 39.2420742,
+      "lon": 9.1067594
+    },
+    {
+      "type": "node",
+      "id": 3353937927,
+      "lat": 39.2422228,
+      "lon": 9.1071353
+    },
+    {
+      "type": "node",
+      "id": 3353937928,
+      "lat": 39.2425287,
+      "lon": 9.1068898
+    },
+    {
+      "type": "node",
+      "id": 3353937929,
+      "lat": 39.2424931,
+      "lon": 9.1068093
+    },
+    {
+      "type": "node",
+      "id": 2817204436,
+      "lat": 39.234881,
+      "lon": 9.1213257
+    },
+    {
+      "type": "node",
+      "id": 2817204973,
+      "lat": 39.2348147,
+      "lon": 9.1214411
+    },
+    {
+      "type": "node",
+      "id": 2817205070,
+      "lat": 39.23505,
+      "lon": 9.1209972
+    },
+    {
+      "type": "node",
+      "id": 2817205115,
+      "lat": 39.2350616,
+      "lon": 9.1216615
+    },
+    {
+      "type": "node",
+      "id": 2817205161,
+      "lat": 39.2350861,
+      "lon": 9.1209258
+    },
+    {
+      "type": "node",
+      "id": 2817205218,
+      "lat": 39.2351047,
+      "lon": 9.1217151
+    },
+    {
+      "type": "node",
+      "id": 2817205502,
+      "lat": 39.235203,
+      "lon": 9.1215185
+    },
+    {
+      "type": "node",
+      "id": 2817205549,
+      "lat": 39.2352165,
+      "lon": 9.1210377
+    },
+    {
+      "type": "node",
+      "id": 2817205602,
+      "lat": 39.2352321,
+      "lon": 9.1215435
+    },
+    {
+      "type": "node",
+      "id": 2817205650,
+      "lat": 39.2352539,
+      "lon": 9.1209658
+    },
+    {
+      "type": "node",
+      "id": 2817205677,
+      "lat": 39.2352643,
+      "lon": 9.1214008
+    },
+    {
+      "type": "node",
+      "id": 2817205766,
+      "lat": 39.2352934,
+      "lon": 9.1214259
+    },
+    {
+      "type": "node",
+      "id": 2817206084,
+      "lat": 39.2354176,
+      "lon": 9.1211064
+    },
+    {
+      "type": "node",
+      "id": 6524038154,
+      "lat": 39.2348407,
+      "lon": 9.1213959
+    },
+    {
+      "type": "node",
+      "id": 6524038155,
+      "lat": 39.2350707,
+      "lon": 9.1209563
+    },
+    {
+      "type": "node",
+      "id": 6524049865,
+      "lat": 39.2349823,
+      "lon": 9.1216315
+    },
+    {
+      "type": "node",
+      "id": 6524049866,
+      "lat": 39.2350049,
+      "lon": 9.1216007
+    },
+    {
+      "type": "node",
+      "id": 2168911758,
+      "lat": 39.250196,
+      "lon": 9.1165968
+    },
+    {
+      "type": "node",
+      "id": 2168911761,
+      "lat": 39.2502711,
+      "lon": 9.1163605
+    },
+    {
+      "type": "node",
+      "id": 2168911763,
+      "lat": 39.2500036,
+      "lon": 9.1169933
+    },
+    {
+      "type": "node",
+      "id": 2168911765,
+      "lat": 39.249816,
+      "lon": 9.116719
+    },
+    {
+      "type": "node",
+      "id": 2168911767,
+      "lat": 39.2501676,
+      "lon": 9.1165738
+    },
+    {
+      "type": "node",
+      "id": 2168911768,
+      "lat": 39.2500693,
+      "lon": 9.1161972
+    },
+    {
+      "type": "node",
+      "id": 2948676329,
+      "lat": 39.249863,
+      "lon": 9.1167571
+    },
+    {
+      "type": "node",
+      "id": 2948676330,
+      "lat": 39.2498204,
+      "lon": 9.1168449
+    },
+    {
+      "type": "node",
+      "id": 2948682056,
+      "lat": 39.2498396,
+      "lon": 9.1167382
+    },
+    {
+      "type": "way",
+      "id": 277184020,
+      "nodes": [
+        2817205677,
+        2817205766,
+        2817205602,
+        2817205502,
+        2817205218,
+        2817205115,
+        6524049866,
+        6524049865,
+        2817204973,
+        6524038154,
+        2817204436,
+        2817205070,
+        6524038155,
+        2817205161,
+        2817205549,
+        2817205650,
+        2817206084,
+        2817205677
+      ]
+    }
+  ]
+}

@@ -38,10 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.gis', #Enabling GEODjango ! : D
-    'nearbyshops',
-    'wagtail.contrib.sitemaps',
-    'wagtail.core.models.Site',
-    'home.home'
+    'nearbyshops'
 ]
 
 MIDDLEWARE = [
