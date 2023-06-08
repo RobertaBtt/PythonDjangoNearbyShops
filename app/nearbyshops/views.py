@@ -19,8 +19,8 @@ class Home(generic.ListView):
     #g = GeoIP()
     #lat, lng = g.lat_lon(user_ip)
     model = Shop
-    context_object_name = "shops"
+    context_object_name = "app"
     queryset = Shop.objects.annotate(distance=Distance("location", user_location)).order_by("distance")[0:6]
-    template_name = "shops/index.html"
+    template_name = "app/index.html"
 
 
